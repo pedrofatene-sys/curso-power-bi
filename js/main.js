@@ -2,7 +2,7 @@
 const channels = [
     { id: 'XV6pgF0uQxM', name: 'aula - 01' },
     { id: '2kvP-V096wI', name: 'aula - 02' },
-    { id: 'kLPQOpLCowY&', name: 'aula - 03' },
+    { id: 'kLPQOpLCowY', name: 'aula - 03' },
     { id: '1XwXhQ6FLPg', name: 'aula - 04' },
     { id: 'as40pd1pWuQ', name: 'aula - 05' },
     { id: 'bV8wbKhNKe8', name: 'aula - 06' },
