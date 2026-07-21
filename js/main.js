@@ -1,15 +1,15 @@
 // Lista de vídeos do YouTube (IDs extraídos das URLs)
 const channels = [
-    { id: 'LakjhD7SWRE', name: 'Organizando os seus dados' },
-    { id: 'e8dQeAIUIs8', name: 'aula - 02' },
-    { id: 'd0jiLHJGRwM', name: 'aula - 03' },
-    { id: 'LAPHMHGdU3o', name: 'aula - 04' },
-    { id: '1fDOyVJFJko', name: 'aula - 05' },
-    { id: 'mpYZGktdB2k', name: 'aula - 06' },
-    { id: 'IhdMJerpMak', name: 'aula - 07' },
-    { id: 'bz7tRRPFd7s', name: 'aula - 08' },
-    { id: 'jRVAD7K1bDU', name: 'aula - 09' },
-    { id: 'NBUJHxwthHA', name: 'aula - 10' }
+    { id: 'XV6pgF0uQxM', name: 'aula - 01' },
+    { id: '2kvP-V096wI', name: 'aula - 02' },
+    { id: 'kLPQOpLCowY&', name: 'aula - 03' },
+    { id: '1XwXhQ6FLPg', name: 'aula - 04' },
+    { id: 'as40pd1pWuQ', name: 'aula - 05' },
+    { id: 'bV8wbKhNKe8', name: 'aula - 06' },
+    { id: '9xuAVo8-NrI', name: 'aula - 07' },
+    { id: '2ar57euPVZg', name: 'aula - 08' },
+    { id: 'ZCc-mY6E_V8', name: 'aula - 09' },
+    { id: 'BplTltJyV34', name: 'aula - 10' }
 ];
 
 // Estado atual
